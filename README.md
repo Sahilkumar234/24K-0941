@@ -1,1 +1,6 @@
-# 24K-0941
+- 👋 Hi, I’m Sahil kumar
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C/C++
+- 📫 How to reach me: sahil7815kumar@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: singing
